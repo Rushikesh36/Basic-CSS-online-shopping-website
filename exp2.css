@@ -1,0 +1,74 @@
+#main{
+    width: 100%;
+    height: 100%;
+}
+
+table {
+    border-collapse: separate;
+   
+  }
+
+  th,td {
+        width: 33%;
+        text-align: center;
+        border: 1px solid black;
+        padding: 5px;
+      }
+
+      .j1{
+        background: #12c2e9;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     
+       
+      }
+
+      .card:hover{
+        background: #FEAC5E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+           }
+
+           .j2{
+            background: #70e1f5;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #ffd194, #70e1f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            
+           }
+
+           td:hover{
+            background: #C9FFBF;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #FFAFBD, #C9FFBF);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #FFAFBD, #C9FFBF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            
+           }
+
+        .j2{
+            background: #7F7FD5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+        }
+        .navbar{
+            background: #12c2e9;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */   
+        }
+
+        .card-title,.price{
+            font-size:25px;
+            color: #2C3335;
+         
+        }
+        i{
+            float: right;
+            font-size: 30px;
+        }
+       .btn{
+         margin:0 10px 0 10px;
+       }
+       #cname{
+         padding-right: 35%;
+       }
